@@ -208,5 +208,35 @@
     "intent": "learned.1773058876900",
     "utterance": "Ahh? Therune nane babo... eka ayeth kiyanawada? 😘",
     "response": "Mokuth nh. Mokd krnne"
+  },
+  {
+    "intent": "learned.1773061333413",
+    "utterance": "මගේ  account eka පෙනවද",
+    "response": "උබ නම් හෙන මී හරකා"
+  },
+  {
+    "intent": "learned.1773061344550",
+    "utterance": "Nh",
+    "response": "ආ එනම් කමක් න්ස්"
+  },
+  {
+    "intent": "learned.1773061584901",
+    "utterance": "Hmmo mge munath rthuwela hinawelama😞💔",
+    "response": "ane ummmmmmmmmmmmmmmmmmmmmmah😘❤️"
+  },
+  {
+    "intent": "learned.1773062463592",
+    "utterance": "Kohe ??",
+    "response": "log out wenoo"
+  },
+  {
+    "intent": "learned.1773062475962",
+    "utterance": "Tharu 750k thiyenw ned gift ekk onee",
+    "response": "Account එකට ඇවිත් බලන්න කියක් තියනවද් කියලා"
+  },
+  {
+    "intent": "learned.1773062476204",
+    "utterance": "ආ අලුත් position එකක් ද",
+    "response": "Positve හිතපන් negative හිතන්න එපා 😓"
   }
 ]
