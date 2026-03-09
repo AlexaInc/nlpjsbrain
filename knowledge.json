@@ -428,5 +428,95 @@
     "intent": "learned.1773064034821",
     "utterance": "Mn add krt add wenn n ne",
     "response": "In"
+  },
+  {
+    "intent": "learned.1773065000278",
+    "utterance": "Aenam kamak na",
+    "response": "Vishu boyy"
+  },
+  {
+    "intent": "learned.1773066284790",
+    "utterance": "Na oi set wennem nti hind ghin htye aye aw mw knk hyl eyw ekkgen ynw",
+    "response": "Owa hriyanna bn"
+  },
+  {
+    "intent": "learned.1773066303307",
+    "utterance": "Owa hriyanna bn",
+    "response": "Ado kt whpnko"
+  },
+  {
+    "intent": "learned.1773066429544",
+    "utterance": "Mk",
+    "response": "Hi"
+  },
+  {
+    "intent": "learned.1773066487482",
+    "utterance": "හායි SL Boy ❤️🥵 සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️",
+    "response": "Mona magulakda me meka ain krapalla hutta"
+  },
+  {
+    "intent": "learned.1773066514788",
+    "utterance": "Hey",
+    "response": "Hello"
+  },
+  {
+    "intent": "learned.1773066527275",
+    "utterance": "අලෝ",
+    "response": "Hi"
+  },
+  {
+    "intent": "learned.1773066540647",
+    "utterance": "හායි SL Boy ❤️🥵 සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️",
+    "response": "Palayanko 😒"
+  },
+  {
+    "intent": "learned.1773066547275",
+    "utterance": "Man ahinsakai ane, okkoma theren na. Puluwan nam wenath widiyakata kiyanna ko... 🥰",
+    "response": "කට - අනේව්\nඇස් - ඉව්ව්"
+  },
+  {
+    "intent": "learned.1773066553047",
+    "utterance": "Hi",
+    "response": "ඕ"
+  },
+  {
+    "intent": "learned.1773066559291",
+    "utterance": "ඕ",
+    "response": "Mk"
+  },
+  {
+    "intent": "learned.1773067484242",
+    "utterance": "Oii me ib wrem",
+    "response": "Inbox enn"
+  },
+  {
+    "intent": "learned.1773067563940",
+    "utterance": "Inbox enn",
+    "response": "Bh"
+  },
+  {
+    "intent": "learned.1773067702048",
+    "utterance": "Bh",
+    "response": "Meet wenwd"
+  },
+  {
+    "intent": "learned.1773067714265",
+    "utterance": "Bh",
+    "response": "Oy"
+  },
+  {
+    "intent": "learned.1773067745657",
+    "utterance": "Meet wenwd",
+    "response": "Bh"
+  },
+  {
+    "intent": "learned.1773067762399",
+    "utterance": "Bh",
+    "response": "Inbox mg dnn"
+  },
+  {
+    "intent": "learned.1773067973585",
+    "utterance": "Bh",
+    "response": "Members l tikk add krpnn 😒"
   }
 ]
