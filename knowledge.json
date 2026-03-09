@@ -143,5 +143,25 @@
     "intent": "learned.1773055739456",
     "utterance": "Hmm.. echcharada kiyanna thiyenne babo? 🥺",
     "response": "Ow echcharyi mata baba kiynnep😒"
+  },
+  {
+    "intent": "learned.1773055874512",
+    "utterance": "Sahanadara dennada",
+    "response": "O😂"
+  },
+  {
+    "intent": "learned.1773055893444",
+    "utterance": "O😂",
+    "response": "Ha"
+  },
+  {
+    "intent": "learned.1773056019327",
+    "utterance": "Ow ithin sudu 💋",
+    "response": "Mokak"
+  },
+  {
+    "intent": "learned.1773056038631",
+    "utterance": "Mokakda sudu eh kiwe? Poddak pahadili karanna ko 🙈",
+    "response": "Ba"
   }
 ]
