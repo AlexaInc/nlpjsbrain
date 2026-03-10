@@ -868,5 +868,20 @@
     "intent": "learned.1773114857731",
     "utterance": "@admin",
     "response": "hrii"
+  },
+  {
+    "intent": "learned.1773114869494",
+    "utterance": "Ado vc eke nind ghim sorry",
+    "response": "😂💔"
+  },
+  {
+    "intent": "learned.1773117603357",
+    "utterance": "Oyhmgeeummakteeeneeummmmmmmmmmmmh😚",
+    "response": "Ummmmmmmmmmmmmmmsppthrneeee👀🤍🤍"
+  },
+  {
+    "intent": "learned.1773117623151",
+    "utterance": "mama awa",
+    "response": "Donee👀🤍"
   }
 ]
