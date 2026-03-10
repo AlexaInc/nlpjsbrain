@@ -1203,5 +1203,15 @@
     "intent": "learned.1773178587105",
     "utterance": "Mn yano aye masekin ennam by",
     "response": "Hree bn prissamen byee"
+  },
+  {
+    "intent": "learned.1773180690384",
+    "utterance": "Mn ynw",
+    "response": "🔒 Whisper for 🤍✗|𝗬𝐀𝐒𝐇𝐙𝐙🕊️🌙✨. Only they can read the content"
+  },
+  {
+    "intent": "learned.1773180711783",
+    "utterance": "🔒 Whisper for 🤍✗|𝗬𝐀𝐒𝐇𝐙𝐙🕊️🌙✨. Only they can read the content",
+    "response": "Mn dnne na"
   }
 ]
