@@ -2323,5 +2323,425 @@
     "intent": "learned.1773248055601",
     "utterance": "Denma badinna adahasak ndda",
     "response": "දැම්ම කල් වැඩි"
+  },
+  {
+    "intent": "learned.1773248070283",
+    "utterance": "අනෙ මෙ සුදු එන්න එපා හරිද",
+    "response": "අන්න දැක්ක ද මන් එනකම් බලන් ඉන්නවා කියලා දැන් කියනවා එන්න එපා ළු...\nදැක්කනේ කොල්ලෝ කියන්නේ බොනිකර තරු කියලා ඔප්පු උනා"
+  },
+  {
+    "intent": "learned.1773248076224",
+    "utterance": "සැ වෑව් මේ මන් දැන්ම... Aasa ඇති 😶‍🌫",
+    "response": "අපි ජිවිතෙ විදින්න ඔනෙ නෙ සුදු"
+  },
+  {
+    "intent": "learned.1773248386224",
+    "utterance": "කටවහගන්න 😓",
+    "response": "මම මොකටෙ කට වහන්නෙ මන් විහිළුවට කිව්වෙ"
+  },
+  {
+    "intent": "learned.1773248386456",
+    "utterance": "ඈ",
+    "response": "ඔව්ව්.... ඔයාට මන් භාශ්මික මාද්‍යයේ KmNo4 දානන්ම්"
+  },
+  {
+    "intent": "learned.1773248392774",
+    "utterance": "එක අහන්න මගෙ gf එයා කියා දෙයි බන් මට තෙරුනෙත් නෑ කිව්ව එක මොකද්ද කියලා",
+    "response": "මොකක්"
+  },
+  {
+    "intent": "learned.1773248405005",
+    "utterance": "ඔයට පෙන්නෙ එ වගෙද😞",
+    "response": "ඉන්ඩකෝ මන් ඔයාව පරිවර්තනේ කරන්නම්"
+  },
+  {
+    "intent": "learned.1773248408668",
+    "utterance": "Tiye",
+    "response": "Pizza dennko ehenm 😓💗"
+  },
+  {
+    "intent": "learned.1773248768174",
+    "utterance": "Hri ithim 🤧",
+    "response": "Huh kohed dn"
+  },
+  {
+    "intent": "learned.1773248789703",
+    "utterance": "මන් මේ ආවේ එය බලන්න 😓🥹",
+    "response": "පුහ්"
+  },
+  {
+    "intent": "learned.1773248810629",
+    "utterance": "මන් කොහොමෙ ගෙන්නෙ  උ ගෙවල් එහා පැත්තෙනෙවෙ ඉන්නෙ",
+    "response": "ඔව් එහා පැත්තේ ඉන්නේ අර පගර නැට්ටිනේ.. උඩැක්කිය... ඔකිට මන්... එව්ව්ව්...  😒"
+  },
+  {
+    "intent": "learned.1773248852706",
+    "utterance": "හුටා එ පාර තව එකක් අල්ල ගත්තා",
+    "response": "එව්ව්ව්ව් උඩැක්කිය"
+  },
+  {
+    "intent": "learned.1773248876079",
+    "utterance": "මේකේ මොකෙක්වත් නැ මම යනවා යන්න... 😒",
+    "response": "මත් යනවා ෆිල්ම් එකක් ඩවුන් ලොඩ් වෙන්න දළා"
+  },
+  {
+    "intent": "learned.1773249258659",
+    "utterance": "Hy",
+    "response": "හායි જ⁀➴°⋆𝐃𝐣𝐨৻ꪆ  සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️"
+  },
+  {
+    "intent": "learned.1773249261169",
+    "utterance": "Adooooooo mizukii dkk kl👀",
+    "response": "Meke inna ayagen danna ekma kena oy"
+  },
+  {
+    "intent": "learned.1773249264961",
+    "utterance": "Meke inna ayagen danna ekma kena oy",
+    "response": "Ba"
+  },
+  {
+    "intent": "learned.1773249275836",
+    "utterance": "Ba",
+    "response": "Ah oyawath mthki"
+  },
+  {
+    "intent": "learned.1773249303699",
+    "utterance": "Meke inna ayagen danna ekma kena oy",
+    "response": "Man"
+  },
+  {
+    "intent": "learned.1773249304319",
+    "utterance": "Adooooooo mizukii dkk kl👀",
+    "response": "Eknee komd ithim"
+  },
+  {
+    "intent": "learned.1773249309866",
+    "utterance": "Ah oyawath mthki",
+    "response": "Sorry sorry wrdimk 😂"
+  },
+  {
+    "intent": "learned.1773249329296",
+    "utterance": "Man",
+    "response": "🙄🙄me kauda"
+  },
+  {
+    "intent": "learned.1773249335028",
+    "utterance": "Huh kohed dn",
+    "response": "Yana gmn"
+  },
+  {
+    "intent": "learned.1773249379640",
+    "utterance": "yaluwo adurgtta",
+    "response": "Hansakada ?"
+  },
+  {
+    "intent": "learned.1773249404557",
+    "utterance": "Issr hitiy ay mtk n ne",
+    "response": "Mam maru karan dp maru karan iddi komd mthk thibbath hoy gnne"
+  },
+  {
+    "intent": "learned.1773249498563",
+    "utterance": "By by",
+    "response": "මාව දාලා යන්න එපා මැණික..😭😭🌸මට ඔයා නැතුව ඉන්න බැ😩❤️..උම්මා එකක් හරි දීලා යන්න පණ..🥰✨"
+  },
+  {
+    "intent": "learned.1773249517535",
+    "utterance": "Mn ynnm",
+    "response": "E ai"
+  },
+  {
+    "intent": "learned.1773249535839",
+    "utterance": "E ai",
+    "response": "Hee"
+  },
+  {
+    "intent": "learned.1773249557567",
+    "utterance": "E ai",
+    "response": "Emy innwd meke"
+  },
+  {
+    "intent": "learned.1773249641097",
+    "utterance": "Emy innwd meke",
+    "response": "Hitiy dn nad kohed"
+  },
+  {
+    "intent": "learned.1773249777514",
+    "utterance": "මොඩ පගයො",
+    "response": "උබ මොලකාරයද"
+  },
+  {
+    "intent": "learned.1773250252048",
+    "utterance": "Hrii",
+    "response": "Dn ark hrid"
+  },
+  {
+    "intent": "learned.1773250266069",
+    "utterance": "Dn ark hrid",
+    "response": "C da"
+  },
+  {
+    "intent": "learned.1773250273113",
+    "utterance": "C da",
+    "response": "Oo oo"
+  },
+  {
+    "intent": "learned.1773250280637",
+    "utterance": "Dn ark hrid",
+    "response": "Oyt kellek innwd dan"
+  },
+  {
+    "intent": "learned.1773250289020",
+    "utterance": "Badalada",
+    "response": "Ow"
+  },
+  {
+    "intent": "learned.1773250291051",
+    "utterance": "Oo oo",
+    "response": "😂😂nh"
+  },
+  {
+    "intent": "learned.1773250301064",
+    "utterance": "Ow",
+    "response": "Awsss kaud ee"
+  },
+  {
+    "intent": "learned.1773250312296",
+    "utterance": "Awsss kaud ee",
+    "response": "Uda hitiye dn"
+  },
+  {
+    "intent": "learned.1773250319870",
+    "utterance": "Uda hitiye dn",
+    "response": "🥲🥲"
+  },
+  {
+    "intent": "learned.1773250336051",
+    "utterance": "Dkke nh",
+    "response": "@zara_yeshnaa"
+  },
+  {
+    "intent": "learned.1773250351713",
+    "utterance": "@zara_yeshnaa",
+    "response": "Me nma mthki ne🥲"
+  },
+  {
+    "intent": "learned.1773250353505",
+    "utterance": "Hi",
+    "response": "හායි Tharu baba  සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️"
+  },
+  {
+    "intent": "learned.1773250359415",
+    "utterance": "හායි zαʀᴀ 🍒  සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️",
+    "response": "හායි ishi grl සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️"
+  },
+  {
+    "intent": "learned.1773250401830",
+    "utterance": "@zara_yeshnaa",
+    "response": "Lamay blgnn"
+  },
+  {
+    "intent": "learned.1773250422065",
+    "utterance": "Lamay blgnn",
+    "response": "Huh 😒"
+  },
+  {
+    "intent": "learned.1773250429434",
+    "utterance": "Me nma mthki ne🥲",
+    "response": "aula"
+  },
+  {
+    "intent": "learned.1773250482742",
+    "utterance": "😂😂nh",
+    "response": "Tm mokk krnwd yko"
+  },
+  {
+    "intent": "learned.1773250528401",
+    "utterance": "Tm mokk krnwd yko",
+    "response": "Thanikada kamata prema karami...."
+  },
+  {
+    "intent": "learned.1773250553030",
+    "utterance": "Hite tiynma hitiyot kiygnn briweyi",
+    "response": "Thanikada kama hodi .."
+  },
+  {
+    "intent": "learned.1773250566684",
+    "utterance": "Thanikada kama hodi ..",
+    "response": "😂😂"
+  },
+  {
+    "intent": "learned.1773250592752",
+    "utterance": "Nariyata midi tiththayi wage",
+    "response": "😂😂"
+  },
+  {
+    "intent": "learned.1773250601304",
+    "utterance": "😂😂",
+    "response": "Attane"
+  },
+  {
+    "intent": "learned.1773250612810",
+    "utterance": "Nariyata midi tiththayi wage",
+    "response": "Nriya midi kadnn try krlu ned"
+  },
+  {
+    "intent": "learned.1773250633214",
+    "utterance": "Attane",
+    "response": "Nh nh thanikada kama hodi sertama wada...prashna adui..athl..."
+  },
+  {
+    "intent": "learned.1773250634270",
+    "utterance": "Nriya midi kadnn try krlu ned",
+    "response": "Itpsse tittayi kiwlu"
+  },
+  {
+    "intent": "learned.1773250655070",
+    "utterance": "Nh nh thanikada kama hodi sertama wada...prashna adui..athl...",
+    "response": "Hko"
+  },
+  {
+    "intent": "learned.1773250721567",
+    "utterance": "Itpsse tittayi kiwlu",
+    "response": "Tittai kiynn klin try krne"
+  },
+  {
+    "intent": "learned.1773250739314",
+    "utterance": "Tittai kiynn klin try krne",
+    "response": "Ow kadgnn bari unalu"
+  },
+  {
+    "intent": "learned.1773250777417",
+    "utterance": "Itpsse tittayi kiwlu",
+    "response": "Tittai kiynn klin try krla"
+  },
+  {
+    "intent": "learned.1773250798247",
+    "utterance": "Mtnm midi pokura mawa hoygenm awa",
+    "response": "Pokuru pokuru mal sanakeli omari latawai"
+  },
+  {
+    "intent": "learned.1773250821622",
+    "utterance": "Pokuru pokuru mal sanakeli omari latawai",
+    "response": "Borud kiwe mn😒"
+  },
+  {
+    "intent": "learned.1773250841999",
+    "utterance": "Borud kiwe mn😒",
+    "response": "Ooo boru"
+  },
+  {
+    "intent": "learned.1773250876084",
+    "utterance": "Ooo boru",
+    "response": "ekpryi hulgk pimbe Midigediya roll wel kakul lgtm awa"
+  },
+  {
+    "intent": "learned.1773250911224",
+    "utterance": "Meke inna ayagen danna ekma kena oy",
+    "response": "Hanew 😓"
+  },
+  {
+    "intent": "learned.1773250925818",
+    "utterance": "Eknee komd ithim",
+    "response": "Awulc na shape eke innoo"
+  },
+  {
+    "intent": "learned.1773250936213",
+    "utterance": "Yana gmn",
+    "response": "Ha prissmin yanna"
+  },
+  {
+    "intent": "learned.1773250943988",
+    "utterance": "Hanew 😓",
+    "response": "Na thawa ay idl"
+  },
+  {
+    "intent": "learned.1773250947200",
+    "utterance": "ekpryi hulgk pimbe Midigediya roll wel kakul lgtm awa",
+    "response": "Neda @zara_yeshnaa"
+  },
+  {
+    "intent": "learned.1773250955259",
+    "utterance": "Neda @zara_yeshnaa",
+    "response": "Aula"
+  },
+  {
+    "intent": "learned.1773250955888",
+    "utterance": "Na thawa ay idl",
+    "response": "Ekne"
+  },
+  {
+    "intent": "learned.1773250961262",
+    "utterance": "Ekne",
+    "response": "Gmmt"
+  },
+  {
+    "intent": "learned.1773250972177",
+    "utterance": "Aula",
+    "response": "Na kiynn b denntm sadrn widiyt kiwe 😒😂"
+  },
+  {
+    "intent": "learned.1773250989778",
+    "utterance": "Aula",
+    "response": "Meh ko akka"
+  },
+  {
+    "intent": "learned.1773251001745",
+    "utterance": "Meh ko akka",
+    "response": "inn balanna"
+  },
+  {
+    "intent": "learned.1773251011978",
+    "utterance": "inn balanna",
+    "response": "Ha"
+  },
+  {
+    "intent": "learned.1773251049169",
+    "utterance": "Ha",
+    "response": "Off ned"
+  },
+  {
+    "intent": "learned.1773251106585",
+    "utterance": "Off ned",
+    "response": "Kud mn nodnn oyge akka"
+  },
+  {
+    "intent": "learned.1773251124116",
+    "utterance": "nariyt midi lbenn tiynonm hulan parat ati",
+    "response": "Midi kataw ati rata midi knn hitei nttm"
+  },
+  {
+    "intent": "learned.1773251138265",
+    "utterance": "Midi kataw ati rata midi knn hitei nttm",
+    "response": "Iy 😒"
+  },
+  {
+    "intent": "learned.1773251158216",
+    "utterance": "Kellek Enna salli",
+    "response": "Salli"
+  },
+  {
+    "intent": "learned.1773251174095",
+    "utterance": "Kellek Enna salli",
+    "response": "Salli on kiyld kiynne"
+  },
+  {
+    "intent": "learned.1773251284785",
+    "utterance": "Hi",
+    "response": "හායි ⎯ᷝ⎯ⷨ͢𝗛𝛬zzυᴰⱽˣ🔥◓𝆺꯭𝅥⎯ͯ  සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️"
+  },
+  {
+    "intent": "learned.1773251290451",
+    "utterance": "හායි zαʀᴀ 🍒  සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️",
+    "response": "හායි ishi grl සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️"
+  },
+  {
+    "intent": "learned.1773251431931",
+    "utterance": "Off ned",
+    "response": "Eww kala ena tikata gihilla 😒"
+  },
+  {
+    "intent": "learned.1773251451425",
+    "utterance": "mn oshii chnl ek oni d oyge",
+    "response": "ඔයා කියන කෙනා නෙමෙ මම"
   }
 ]
