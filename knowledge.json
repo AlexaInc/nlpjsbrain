@@ -1243,5 +1243,10 @@
     "intent": "learned.1773207692689",
     "utterance": "Ea sada nubamai..hada abaree mage..🙃",
     "response": "Abare da kiyl sure nthi nisa mn ek dmme nththe ahuna widiy wrdid dnne na kiyl"
+  },
+  {
+    "intent": "learned.1773214225749",
+    "utterance": "Harima kammali nda ane",
+    "response": "Natanna ehenam 😓"
   }
 ]
