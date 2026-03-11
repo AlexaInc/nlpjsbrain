@@ -1233,5 +1233,10 @@
     "intent": "learned.1773197375306",
     "utterance": "Mokek",
     "response": "Mole tiyen eklu"
+  },
+  {
+    "intent": "learned.1773199352209",
+    "utterance": "@ishuugirl @Aurora_celes",
+    "response": ".."
   }
 ]
