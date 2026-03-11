@@ -1213,5 +1213,25 @@
     "intent": "learned.1773180711783",
     "utterance": "🔒 Whisper for 🤍✗|𝗬𝐀𝐒𝐇𝐙𝐙🕊️🌙✨. Only they can read the content",
     "response": "Mn dnne na"
+  },
+  {
+    "intent": "learned.1773195667904",
+    "utterance": "Hi",
+    "response": "හායි zαʀᴀ 🍒  සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️"
+  },
+  {
+    "intent": "learned.1773195673877",
+    "utterance": "හායි zαʀᴀ 🍒  සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️",
+    "response": "හායි ishi grl සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️"
+  },
+  {
+    "intent": "learned.1773197138057",
+    "utterance": "Mol kellek nadda",
+    "response": "Mokek"
+  },
+  {
+    "intent": "learned.1773197375306",
+    "utterance": "Mokek",
+    "response": "Mole tiyen eklu"
   }
 ]
