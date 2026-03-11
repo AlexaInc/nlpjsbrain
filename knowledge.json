@@ -1248,5 +1248,20 @@
     "intent": "learned.1773214225749",
     "utterance": "Harima kammali nda ane",
     "response": "Natanna ehenam 😓"
+  },
+  {
+    "intent": "learned.1773217099460",
+    "utterance": "M",
+    "response": "."
+  },
+  {
+    "intent": "learned.1773217105640",
+    "utterance": ".",
+    "response": "Umma"
+  },
+  {
+    "intent": "learned.1773218175381",
+    "utterance": "Heyy",
+    "response": "Hyyy"
   }
 ]
