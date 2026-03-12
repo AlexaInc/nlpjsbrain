@@ -4168,5 +4168,30 @@
     "intent": "learned.1773320031400",
     "utterance": "Dnn",
     "response": "__Dnn__ does not start with __S__."
+  },
+  {
+    "intent": "learned.1773320069470",
+    "utterance": "Hospital",
+    "response": "__Hospital__ has been used."
+  },
+  {
+    "intent": "learned.1773321504673",
+    "utterance": "Mt daraw",
+    "response": "Ey ei het"
+  },
+  {
+    "intent": "learned.1773321516035",
+    "utterance": "Mention krl denn",
+    "response": "@Tutuugirl009"
+  },
+  {
+    "intent": "learned.1773321679931",
+    "utterance": "Mention krl denn",
+    "response": "In"
+  },
+  {
+    "intent": "learned.1773323441677",
+    "utterance": "Yakow",
+    "response": "😂"
   }
 ]
