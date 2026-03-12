@@ -3058,5 +3058,25 @@
     "intent": "learned.1773275846045",
     "utterance": "Ehnm hodai",
     "response": "E moko"
+  },
+  {
+    "intent": "learned.1773277675985",
+    "utterance": "Night",
+    "response": "අලබෝලෙ වගේ කාලා බීලා දැන් දොයියන්නද හදන්නේ බතලයෝ...😩❤️.ගුඩ් නයිට් මැණික..🌷🌹මන් ඔයාව බලන්න හීනෙන් එන්නම් සුදූ..🌝🌹"
+  },
+  {
+    "intent": "learned.1773277705334",
+    "utterance": "night",
+    "response": "අලබෝලෙ වගේ කාලා බීලා දැන් දොයියන්නද හදන්නේ බතලයෝ...😩❤️.ගුඩ් නයිට් මැණික..🌷🌹මන් ඔයාව බලන්න හීනෙන් එන්නම් සුදූ..🌝🌹"
+  },
+  {
+    "intent": "learned.1773277800929",
+    "utterance": "Event",
+    "response": "Ahn ndd"
+  },
+  {
+    "intent": "learned.1773277818932",
+    "utterance": "Ahn ndd",
+    "response": "N"
   }
 ]
