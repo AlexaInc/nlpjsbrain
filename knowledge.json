@@ -4378,5 +4378,450 @@
     "intent": "learned.1773326636223",
     "utterance": "Nika",
     "response": "Mmm"
+  },
+  {
+    "intent": "learned.1773327432342",
+    "utterance": "Kttiya nne appa . 6i inne",
+    "response": "ysyi"
+  },
+  {
+    "intent": "learned.1773327554418",
+    "utterance": "ysyi",
+    "response": "🥲🥲"
+  },
+  {
+    "intent": "learned.1773327641081",
+    "utterance": "Mk",
+    "response": "මුකුත්  නැ පැටියෝ..💖🔓\nඔයා මොකද කරන්නෙ..💓🌷"
+  },
+  {
+    "intent": "learned.1773327657537",
+    "utterance": "Mk",
+    "response": "Liynw . Me oy ict kr ned"
+  },
+  {
+    "intent": "learned.1773327659656",
+    "utterance": "Hi",
+    "response": "හායි Fernando  සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️"
+  },
+  {
+    "intent": "learned.1773327665025",
+    "utterance": "Liynw . Me oy ict kr ned",
+    "response": "ow"
+  },
+  {
+    "intent": "learned.1773327665563",
+    "utterance": "හායි zαʀᴀ 🍒  සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️",
+    "response": "හායි ishi grl සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️"
+  },
+  {
+    "intent": "learned.1773327673409",
+    "utterance": "Hi",
+    "response": "Hello"
+  },
+  {
+    "intent": "learned.1773327686945",
+    "utterance": "ow",
+    "response": "Generating whisper message..."
+  },
+  {
+    "intent": "learned.1773327695467",
+    "utterance": "**170pips** done hit TP1 guys. Enjoy your profits 🤑",
+    "response": "👏👏👏👏"
+  },
+  {
+    "intent": "learned.1773327704563",
+    "utterance": "⎯ᷝ⎯ⷨ͢𝗛𝛬zzυᴰⱽˣ🔥◓𝆺꯭𝅥⎯ͯ read the whisper",
+    "response": "Athi gedr gihin blnnm"
+  },
+  {
+    "intent": "learned.1773327715179",
+    "utterance": "Policiye mn",
+    "response": "Ycy"
+  },
+  {
+    "intent": "learned.1773327719170",
+    "utterance": "Athi gedr gihin blnnm",
+    "response": "Locu udwwk"
+  },
+  {
+    "intent": "learned.1773327749794",
+    "utterance": "Hi",
+    "response": "හායි සුදු මහත්තයා  සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️"
+  },
+  {
+    "intent": "learned.1773327755733",
+    "utterance": "හායි zαʀᴀ 🍒  සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️",
+    "response": "හායි ishi grl සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️"
+  },
+  {
+    "intent": "learned.1773327774899",
+    "utterance": "Locu udwwk",
+    "response": "mulu padamama tiyed dn na hbyi sir dipu tute eknm mulu padamama thiyno"
+  },
+  {
+    "intent": "learned.1773327789654",
+    "utterance": "mulu padamama tiyed dn na hbyi sir dipu tute eknm mulu padamama thiyno",
+    "response": "Note ek witry"
+  },
+  {
+    "intent": "learned.1773327807357",
+    "utterance": "Gnan onnh",
+    "response": "Ganan tm tiynne 😒😂"
+  },
+  {
+    "intent": "learned.1773327814056",
+    "utterance": "Ganan tm tiynne 😒😂",
+    "response": "Ane appa"
+  },
+  {
+    "intent": "learned.1773328962440",
+    "utterance": "Nena wenno komd",
+    "response": "He hee eygen ahnn 😓"
+  },
+  {
+    "intent": "learned.1773328968415",
+    "utterance": "Hiiiiiiiiiii",
+    "response": "Yoow"
+  },
+  {
+    "intent": "learned.1773328978373",
+    "utterance": "Hlo",
+    "response": "Mm mk"
+  },
+  {
+    "intent": "learned.1773328978844",
+    "utterance": "Mm mk",
+    "response": "මුකුත්  නැ පැටියෝ..💖🔓\nඔයා මොකද කරන්නෙ..💓🌷"
+  },
+  {
+    "intent": "learned.1773329070834",
+    "utterance": "Mm mk",
+    "response": "aduwa"
+  },
+  {
+    "intent": "learned.1773329216605",
+    "utterance": "aduwa",
+    "response": "E ai"
+  },
+  {
+    "intent": "learned.1773329245201",
+    "utterance": "E ai",
+    "response": "Amm banna"
+  },
+  {
+    "intent": "learned.1773329286816",
+    "utterance": "Amm banna",
+    "response": "Yasai mokk hri gon wdk krnn athi aniwaren"
+  },
+  {
+    "intent": "learned.1773329311100",
+    "utterance": "Yasai mokk hri gon wdk krnn athi aniwaren",
+    "response": "gon wd newe sapawadiwel kiyl"
+  },
+  {
+    "intent": "learned.1773329342288",
+    "utterance": "gon wd newe sapawadiwel kiyl",
+    "response": "Atta thna 😂"
+  },
+  {
+    "intent": "learned.1773329394466",
+    "utterance": "Akkt mko wela thiyenne oi 😓🤌",
+    "response": "Pissu ekit"
+  },
+  {
+    "intent": "learned.1773329404019",
+    "utterance": "Sapa na dan mn hignnek",
+    "response": "Higannotat apitwda slli thiyenw oii 😂"
+  },
+  {
+    "intent": "learned.1773329408810",
+    "utterance": "Pissu ekit",
+    "response": "Ane mnd"
+  },
+  {
+    "intent": "learned.1773329426122",
+    "utterance": "Higannotat apitwda slli thiyenw oii 😂",
+    "response": "Annekai mge oluwa plennwge dn nm"
+  },
+  {
+    "intent": "learned.1773329437444",
+    "utterance": "Mizu mizu",
+    "response": "Akkaaa😓 oyt wys kiyd"
+  },
+  {
+    "intent": "learned.1773329445738",
+    "utterance": "Pew pew",
+    "response": "Broom broom"
+  },
+  {
+    "intent": "learned.1773329448567",
+    "utterance": "Annekai mge oluwa plennwge dn nm",
+    "response": "Yco amm bnna kiyl oma wenwd"
+  },
+  {
+    "intent": "learned.1773329458516",
+    "utterance": "Broom broom",
+    "response": "Gadayaa 😓"
+  },
+  {
+    "intent": "learned.1773329468852",
+    "utterance": "Akkaaa😓 oyt wys kiyd",
+    "response": "19 oyat"
+  },
+  {
+    "intent": "learned.1773329481852",
+    "utterance": "Yco amm bnna kiyl oma wenwd",
+    "response": "Drunuwtm giya"
+  },
+  {
+    "intent": "learned.1773329483831",
+    "utterance": "Gadayaa 😓",
+    "response": "😑😑gadaya umbli achchi😂"
+  },
+  {
+    "intent": "learned.1773329498056",
+    "utterance": "19 oyat",
+    "response": "Ek bot kenek mute krl"
+  },
+  {
+    "intent": "learned.1773329513471",
+    "utterance": "19 oyat",
+    "response": "2006 da🥲"
+  },
+  {
+    "intent": "learned.1773329525501",
+    "utterance": "19 oyat",
+    "response": "May wlt 19 i"
+  },
+  {
+    "intent": "learned.1773329577091",
+    "utterance": "May wlt 19 i",
+    "response": "Aa nngeee😞❤️"
+  },
+  {
+    "intent": "learned.1773329586503",
+    "utterance": "2006 da🥲",
+    "response": "O"
+  },
+  {
+    "intent": "learned.1773329597514",
+    "utterance": "O",
+    "response": "Ah...bak kawada"
+  },
+  {
+    "intent": "learned.1773329613794",
+    "utterance": "Drunuwtm giya",
+    "response": "Hpptsiri thathwe bayanakid"
+  },
+  {
+    "intent": "learned.1773329635039",
+    "utterance": "😑😑gadaya umbli achchi😂",
+    "response": "Achchi nanw ubt wadiy 😓👍"
+  },
+  {
+    "intent": "learned.1773329653930",
+    "utterance": "Achchi nanw ubt wadiy 😓👍",
+    "response": "😂😂gahap"
+  },
+  {
+    "intent": "learned.1773329678458",
+    "utterance": "Habai hoda wade 😓😂",
+    "response": "dn mn inn ttwe dkknm ohm kiynn na tmun"
+  },
+  {
+    "intent": "learned.1773329684776",
+    "utterance": "😂😂gahap",
+    "response": "Huu gdya"
+  },
+  {
+    "intent": "learned.1773329694027",
+    "utterance": "Huu gdya",
+    "response": "Oyt wada suwadi"
+  },
+  {
+    "intent": "learned.1773329711649",
+    "utterance": "dn mn inn ttwe dkknm ohm kiynn na tmun",
+    "response": "Ai mko thathwe le peragend inne 😓"
+  },
+  {
+    "intent": "learned.1773329733477",
+    "utterance": "Oyt wada suwadi",
+    "response": "Puh api nm gada nh ithim 😂"
+  },
+  {
+    "intent": "learned.1773329744047",
+    "utterance": "Puh api nm gada nh ithim 😂",
+    "response": "Gadai gadai gadaya"
+  },
+  {
+    "intent": "learned.1773329786415",
+    "utterance": "Gadai gadai gadaya",
+    "response": "Gadayaa mizuki gadayaa"
+  },
+  {
+    "intent": "learned.1773329799436",
+    "utterance": "Gadayaa mizuki gadayaa",
+    "response": "😑😑😑chammaka challo"
+  },
+  {
+    "intent": "learned.1773329822747",
+    "utterance": "😑😑😑chammaka challo",
+    "response": "Wanna beemak chmmk chaloo ooo ooo"
+  },
+  {
+    "intent": "learned.1773329833931",
+    "utterance": "Sokariyakata man pem bandaiii",
+    "response": "/q"
+  },
+  {
+    "intent": "learned.1773329835827",
+    "utterance": "Wanna beemak chmmk chaloo ooo ooo",
+    "response": "Ooo ooo oooo"
+  },
+  {
+    "intent": "learned.1773329872989",
+    "utterance": "Ooo ooo oooo",
+    "response": "Pruup pruup"
+  },
+  {
+    "intent": "learned.1773329881773",
+    "utterance": "Pruup pruup",
+    "response": "Gihim naganna"
+  },
+  {
+    "intent": "learned.1773329967369",
+    "utterance": "Gihim naganna",
+    "response": "Ai ey nanne ndd"
+  },
+  {
+    "intent": "learned.1773329982413",
+    "utterance": "Ai ey nanne ndd",
+    "response": "Nhh mn danna kale idn oka nala nh"
+  },
+  {
+    "intent": "learned.1773330029986",
+    "utterance": "Wathurata bayay luuu",
+    "response": "Hne mge akkat gade inn wenne"
+  },
+  {
+    "intent": "learned.1773330056557",
+    "utterance": "Gihim naganna",
+    "response": "To npiy gdaya"
+  },
+  {
+    "intent": "learned.1773330060223",
+    "utterance": "Hne mge akkat gade inn wenne",
+    "response": "🥲🥲 akka"
+  },
+  {
+    "intent": "learned.1773330068235",
+    "utterance": "To npiy gdaya",
+    "response": "Man nawa😓"
+  },
+  {
+    "intent": "learned.1773330071657",
+    "utterance": "🥲🥲 akka",
+    "response": "Akka"
+  },
+  {
+    "intent": "learned.1773330096170",
+    "utterance": "Hne mge akkat gade inn wenne",
+    "response": "Ane ane mee 😓👍"
+  },
+  {
+    "intent": "learned.1773330117433",
+    "utterance": "Akka",
+    "response": "Kaud akka ara 🍓👈 meyada"
+  },
+  {
+    "intent": "learned.1773330140218",
+    "utterance": "Kaud akka ara 🍓👈 meyada",
+    "response": "Anawasya thorathurk 😓👍"
+  },
+  {
+    "intent": "learned.1773330141202",
+    "utterance": "Kaud akka ara 🍓👈 meyada",
+    "response": "Na habai ehm knkut innwd"
+  },
+  {
+    "intent": "learned.1773330160780",
+    "utterance": "Anawasya thorathurk 😓👍",
+    "response": "Kud massine e"
+  },
+  {
+    "intent": "learned.1773330164599",
+    "utterance": "Anawasya thorathurk 😓👍",
+    "response": "😂😂yko tg ekama udu yari kuru wela monwath dan nh..."
+  },
+  {
+    "intent": "learned.1773330178019",
+    "utterance": "😂😂yko tg ekama udu yari kuru wela monwath dan nh...",
+    "response": "To awe nhne 😂"
+  },
+  {
+    "intent": "learned.1773330189780",
+    "utterance": "Kud massine e",
+    "response": "X x 😓"
+  },
+  {
+    "intent": "learned.1773330204199",
+    "utterance": "Kata waha gatta😓👍",
+    "response": "Ub ktha krpm 😓👍"
+  },
+  {
+    "intent": "learned.1773330206940",
+    "utterance": "X x 😓",
+    "response": "Kud ane strowbry"
+  },
+  {
+    "intent": "learned.1773330212287",
+    "utterance": "To awe nhne 😂",
+    "response": "Ekanee😂😂 melo deyk dan nh... habai siyalla wenas wi atha😓"
+  },
+  {
+    "intent": "learned.1773330230787",
+    "utterance": "Kud ane strowbry",
+    "response": "Stwberrychochi dn nm innwd dnneth nh"
+  },
+  {
+    "intent": "learned.1773330242060",
+    "utterance": "Ekanee😂😂 melo deyk dan nh... habai siyalla wenas wi atha😓",
+    "response": "Kawud siya 👀"
+  },
+  {
+    "intent": "learned.1773330242299",
+    "utterance": "Kud ane strowbry",
+    "response": "Dan akka meya newe nam kauda"
+  },
+  {
+    "intent": "learned.1773330246502",
+    "utterance": "Stwberrychochi dn nm innwd dnneth nh",
+    "response": "Dnnw hbai ehm kenk"
+  },
+  {
+    "intent": "learned.1773330255371",
+    "utterance": "Kawud siya 👀",
+    "response": "සියල්ල yku"
+  },
+  {
+    "intent": "learned.1773330272176",
+    "utterance": "සියල්ල yku",
+    "response": "Ah mee wrenko inbox ubt bddk kiynn thiyenw"
+  },
+  {
+    "intent": "learned.1773330290340",
+    "utterance": "Ah mee wrenko inbox ubt bddk kiynn thiyenw",
+    "response": "😂😂kiyanna"
+  },
+  {
+    "intent": "learned.1773330597345",
+    "utterance": "Ane appa",
+    "response": "Sir ge note ek dennm"
+  },
+  {
+    "intent": "learned.1773330657110",
+    "utterance": "@J4NIY4 vililajjai",
+    "response": "Ayyo🙂"
   }
 ]
