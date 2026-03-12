@@ -3078,5 +3078,30 @@
     "intent": "learned.1773277818932",
     "utterance": "Ahn ndd",
     "response": "N"
+  },
+  {
+    "intent": "learned.1773281037656",
+    "utterance": "Event",
+    "response": "Link danna puluwan da"
+  },
+  {
+    "intent": "learned.1773281468476",
+    "utterance": "Link 1k shear karala denna puluwan kello enna",
+    "response": "Kello ai"
+  },
+  {
+    "intent": "learned.1773281997789",
+    "utterance": "Hy",
+    "response": "හායි * PIYUMAAL සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️"
+  },
+  {
+    "intent": "learned.1773283026650",
+    "utterance": "Kello ai",
+    "response": "ඒකට කෙල්ලො ඕනි"
+  },
+  {
+    "intent": "learned.1773283343356",
+    "utterance": "ඒකට කෙල්ලො ඕනි",
+    "response": "😂"
   }
 ]
