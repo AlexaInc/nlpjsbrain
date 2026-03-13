@@ -5163,5 +5163,10 @@
     "intent": "learned.1773366551435",
     "utterance": "Nalu",
     "response": "E moko"
+  },
+  {
+    "intent": "learned.1773368306114",
+    "utterance": "Nalu",
+    "response": "Innw"
   }
 ]
