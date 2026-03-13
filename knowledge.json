@@ -5308,5 +5308,40 @@
     "intent": "learned.1773391620698",
     "utterance": "Give me one chance",
     "response": "Plz save dgannvda oyavath"
+  },
+  {
+    "intent": "learned.1773392130060",
+    "utterance": "@SangMata_BOT allhistory @She_xzzz",
+    "response": "Search by username command is only available for \"Donator\" account or the group has no more quota.\nPlease consider donating to support our bots. Thank you.\n\nTo donate, send \"donate <amount>\" in the bot private chat or send \"groupdonate\" in your group as admin.\nE.g. \"donate 500\"\n\nAlternatively, you can use search by ID which avaiable for all.\nE.g. \"allhistory 123456\""
+  },
+  {
+    "intent": "learned.1773393681300",
+    "utterance": "🔫",
+    "response": "Mkkd"
+  },
+  {
+    "intent": "learned.1773393694125",
+    "utterance": "Mkkd",
+    "response": "වැරදි mention එකක්"
+  },
+  {
+    "intent": "learned.1773394268724",
+    "utterance": "සමානාත්මතාව",
+    "response": "Hoda naraka kiyl deyk tiynw😞"
+  },
+  {
+    "intent": "learned.1773395367521",
+    "utterance": "Heyy",
+    "response": "Hi"
+  },
+  {
+    "intent": "learned.1773395403547",
+    "utterance": "හායි zαʀᴀ 🍒  සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️",
+    "response": "Hm"
+  },
+  {
+    "intent": "learned.1773395414754",
+    "utterance": "Hn",
+    "response": "M"
   }
 ]
