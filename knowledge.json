@@ -5718,5 +5718,35 @@
     "intent": "learned.1773401804682",
     "utterance": "H",
     "response": "Umma"
+  },
+  {
+    "intent": "learned.1773406038071",
+    "utterance": "Werdi deyk kewnawathda",
+    "response": "Oo zaalimaaaa😭"
+  },
+  {
+    "intent": "learned.1773406056208",
+    "utterance": "Oo zaalimaaaa😭",
+    "response": "ඇැ"
+  },
+  {
+    "intent": "learned.1773406218487",
+    "utterance": "Ennko sindu ahnn",
+    "response": "Mn me sindu ahnwa"
+  },
+  {
+    "intent": "learned.1773406226534",
+    "utterance": "Dn thmi poddk free eke inne🙁",
+    "response": "Ohhh emd"
+  },
+  {
+    "intent": "learned.1773406301955",
+    "utterance": "Mmm mk",
+    "response": "Sindu ahno"
+  },
+  {
+    "intent": "learned.1773406304281",
+    "utterance": "@Roxi2359 hy teacher",
+    "response": "Hi student Wts up"
   }
 ]
