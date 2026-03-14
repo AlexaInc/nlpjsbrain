@@ -6898,5 +6898,10 @@
     "intent": "learned.1773466860899",
     "utterance": "මටනම් වැඩක් නැ",
     "response": "අන්නhri"
+  },
+  {
+    "intent": "learned.1773468324224",
+    "utterance": "Poland",
+    "response": "💪 **Come on!** (4 minutes 24 seconds)\nYou guessed the word!\n__+1 in the local game leaderboard__"
   }
 ]
