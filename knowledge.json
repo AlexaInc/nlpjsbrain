@@ -7783,5 +7783,10 @@
     "intent": "learned.1773582755766",
     "utterance": "Sindu ahno",
     "response": "Hodyi"
+  },
+  {
+    "intent": "learned.1773584051260",
+    "utterance": "Krnn",
+    "response": "Kala mn"
   }
 ]
