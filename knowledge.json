@@ -7223,5 +7223,110 @@
     "intent": "learned.1773560374668",
     "utterance": "Colombo",
     "response": "ammt colaba kohed"
+  },
+  {
+    "intent": "learned.1773561323483",
+    "utterance": "ne",
+    "response": "කන්න එපැය නැන්දේ ඔය වයසට බඩ ගගින්නේ ඉදලා හ‍රි යනවද"
+  },
+  {
+    "intent": "learned.1773561325390",
+    "utterance": "නරකයි",
+    "response": "Mamad ?"
+  },
+  {
+    "intent": "learned.1773561328526",
+    "utterance": "monada neththe",
+    "response": "හරි හරි 😌"
+  },
+  {
+    "intent": "learned.1773561333852",
+    "utterance": "මටත් ඕනෙ😪",
+    "response": "ඔය ඉන්නෙ"
+  },
+  {
+    "intent": "learned.1773561334080",
+    "utterance": "Mamad ?",
+    "response": "ඕ"
+  },
+  {
+    "intent": "learned.1773561336059",
+    "utterance": "1886 🥴",
+    "response": "Ow😌"
+  },
+  {
+    "intent": "learned.1773561342098",
+    "utterance": "ඔය ඉන්නෙ",
+    "response": "කොයි කොයි කොයි"
+  },
+  {
+    "intent": "learned.1773561349710",
+    "utterance": "කොයි කොයි කොයි",
+    "response": "බ්ලැකි"
+  },
+  {
+    "intent": "learned.1773561352794",
+    "utterance": "ඕ",
+    "response": "Ai ehem kiynne"
+  },
+  {
+    "intent": "learned.1773561355579",
+    "utterance": "බ්ලැකි",
+    "response": "ඒ මොකීද"
+  },
+  {
+    "intent": "learned.1773561666573",
+    "utterance": "මම එයාව ඔයාට බාර දෙනව😓",
+    "response": "නිස්පල ක්‍රියාවක් ඕක හ්අරියන් න්ඇ😞"
+  },
+  {
+    "intent": "learned.1773561676983",
+    "utterance": "අනෙව් ඒම වෙන්න බෑනෙ😓",
+    "response": "Oy wel tynne"
+  },
+  {
+    "intent": "learned.1773561677477",
+    "utterance": "Adminla hodai",
+    "response": "@Itz_Yashz"
+  },
+  {
+    "intent": "learned.1773561678076",
+    "utterance": "උයලා බෙදල දෙන්න මන් ඔයාව ගෙදර ගෙනත් තියාගන්නම්",
+    "response": "asada"
+  },
+  {
+    "intent": "learned.1773561680950",
+    "utterance": "Mond 😅🌝",
+    "response": "මගෙ ඇග😒"
+  },
+  {
+    "intent": "learned.1773561685084",
+    "utterance": "asada",
+    "response": "ආසයි බයයි"
+  },
+  {
+    "intent": "learned.1773561686664",
+    "utterance": "නිස්පල ක්‍රියාවක් ඕක හ්අරියන් න්ඇ😞",
+    "response": "හරිගියොත් ටෝ මට මොනාද දෙන්නෙ😓"
+  },
+  {
+    "intent": "learned.1773561691421",
+    "utterance": "මගෙ ඇග😒",
+    "response": "🌝🌝"
+  },
+  {
+    "intent": "learned.1773561694948",
+    "utterance": "Oy wel tynne",
+    "response": "ඉන්න මම දාන්නම්😓"
+  },
+  {
+    "intent": "learned.1773561884305",
+    "utterance": "ඔයාට හරියන්නෙ එතන",
+    "response": "ha ayee kathawak na kawadawath👍"
+  },
+  {
+    "intent": "learned.1773561975867",
+    "utterance": "Ought",
+    "response": "💪 **Come on!** (5 minutes 36 seconds)\nYou guessed the word!\n__+1 in the local game leaderboard__"
   }
 ]
