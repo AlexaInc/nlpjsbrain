@@ -8008,5 +8008,10 @@
     "intent": "learned.1773683218866",
     "utterance": "Kawad",
     "response": "kawaa aiyee oya moko krnne dam"
+  },
+  {
+    "intent": "learned.1773690371124",
+    "utterance": "Meke bh",
+    "response": "Ehenm nikn inn"
   }
 ]
