@@ -7838,5 +7838,15 @@
     "intent": "learned.1773646218532",
     "utterance": "හොදයි",
     "response": "Ha aiyee kawada ithim"
+  },
+  {
+    "intent": "learned.1773655400410",
+    "utterance": "Granny",
+    "response": "💪 **Come on!** (2 minutes 22 seconds)\nYou guessed the word!\n__+1 in the local game leaderboard__"
+  },
+  {
+    "intent": "learned.1773656967487",
+    "utterance": "Heyy",
+    "response": "Msg mee"
   }
 ]
