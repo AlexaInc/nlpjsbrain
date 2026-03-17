@@ -8043,5 +8043,10 @@
     "intent": "learned.1773724920845",
     "utterance": "Nima bo'ldi topdizmi  moshina",
     "response": "Xa topdim"
+  },
+  {
+    "intent": "learned.1773731675835",
+    "utterance": "Assalomu alaykum Yangi toshmidan Namanganga bitta odam bor 13 va 14 00 orasida.911331976",
+    "response": "Assalomu alekum hozi telfon qilishadi"
   }
 ]
