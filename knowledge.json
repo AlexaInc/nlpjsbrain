@@ -8058,5 +8058,20 @@
     "intent": "learned.1773735576956",
     "utterance": "Toshkentdan Namangan tepaqorgonga kechqurun 21:00ga 1kishi bor mashinasida ayol kishisi borlar aloqaga chiqvoringlar\n931777789",
     "response": "topamiz  moshina"
+  },
+  {
+    "intent": "learned.1773739620416",
+    "utterance": "Innawa BN",
+    "response": "Kala beelda"
+  },
+  {
+    "intent": "learned.1773739786901",
+    "utterance": "Quiz hdnn 😒",
+    "response": "Ub hdpm mn wda"
+  },
+  {
+    "intent": "learned.1773739803731",
+    "utterance": "Ub hdpm mn wda",
+    "response": "Hduw"
   }
 ]
