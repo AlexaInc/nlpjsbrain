@@ -8048,5 +8048,15 @@
     "intent": "learned.1773731675835",
     "utterance": "Assalomu alaykum Yangi toshmidan Namanganga bitta odam bor 13 va 14 00 orasida.911331976",
     "response": "Assalomu alekum hozi telfon qilishadi"
+  },
+  {
+    "intent": "learned.1773735567159",
+    "utterance": "Toshkentdan Namangan tepaqorgonga kechqurun 21:00ga 1kishi bor mashinasida ayol kishisi borlar aloqaga chiqvoringlar\n931777789",
+    "response": "Ok"
+  },
+  {
+    "intent": "learned.1773735576956",
+    "utterance": "Toshkentdan Namangan tepaqorgonga kechqurun 21:00ga 1kishi bor mashinasida ayol kishisi borlar aloqaga chiqvoringlar\n931777789",
+    "response": "topamiz  moshina"
   }
 ]
