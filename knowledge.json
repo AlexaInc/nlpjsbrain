@@ -8033,5 +8033,15 @@
     "intent": "learned.1773711411205",
     "utterance": "Hiii🪫❤️",
     "response": "Mona trading da karanne"
+  },
+  {
+    "intent": "learned.1773724389161",
+    "utterance": "Assalamu alaykum Toshkendan ➡️ Namanganga 1 kishi bor",
+    "response": "Assalomu alekum"
+  },
+  {
+    "intent": "learned.1773724920845",
+    "utterance": "Nima bo'ldi topdizmi  moshina",
+    "response": "Xa topdim"
   }
 ]
