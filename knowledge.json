@@ -8073,5 +8073,10 @@
     "intent": "learned.1773739803731",
     "utterance": "Ub hdpm mn wda",
     "response": "Hduw"
+  },
+  {
+    "intent": "learned.1773744352235",
+    "utterance": "Hi hi😎",
+    "response": "Hii"
   }
 ]
