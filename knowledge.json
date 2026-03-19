@@ -8393,5 +8393,25 @@
     "intent": "learned.1773917639114",
     "utterance": "හායි zαʀᴀ 🍒  සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️",
     "response": "I speak English"
+  },
+  {
+    "intent": "learned.1773917730094",
+    "utterance": "Coven",
+    "response": "Congrats! You guessed it correctly.\nCorrect Word: **coven**\nAdded 11 to the leaderboard.\nStart with /new5"
+  },
+  {
+    "intent": "learned.1773917785344",
+    "utterance": "Epoxy",
+    "response": "In"
+  },
+  {
+    "intent": "learned.1773918032190",
+    "utterance": "Alibi",
+    "response": "Congrats! You guessed it correctly.\nCorrect Word: **alibi**\nAdded 15 to the leaderboard.\nStart with /new5"
+  },
+  {
+    "intent": "learned.1773918408512",
+    "utterance": "Overt",
+    "response": "Congrats! You guessed it correctly.\nCorrect Word: **overt**\nAdded 16 to the leaderboard.\nStart with /new5"
   }
 ]
