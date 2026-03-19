@@ -8318,5 +8318,30 @@
     "intent": "learned.1773894252428",
     "utterance": "Koked",
     "response": "Sweta"
+  },
+  {
+    "intent": "learned.1773903347750",
+    "utterance": "Eaten",
+    "response": "Congrats! You guessed it correctly.\nCorrect Word: **eaten**\nAdded 12 to the leaderboard.\nStart with /new5"
+  },
+  {
+    "intent": "learned.1773903462332",
+    "utterance": "Coast",
+    "response": "Congrats! You guessed it correctly.\nCorrect Word: **coast**\nAdded 22 to the leaderboard.\nStart with /new5"
+  },
+  {
+    "intent": "learned.1773904100595",
+    "utterance": "Anywhere",
+    "response": "💪 **Come on!** (7 minutes 17 seconds)\nYou guessed the word!\n__+1 in the local game leaderboard__"
+  },
+  {
+    "intent": "learned.1773906538155",
+    "utterance": "Hi",
+    "response": "හායි Amit Jatav සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️"
+  },
+  {
+    "intent": "learned.1773906636203",
+    "utterance": "Hi",
+    "response": "හායි 乙 α ꧊᱂α ᡣ݆𐭩𝆆  සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️"
   }
 ]
