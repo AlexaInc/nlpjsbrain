@@ -8543,5 +8543,15 @@
     "intent": "learned.1773944939142",
     "utterance": "Mkd",
     "response": "Mn"
+  },
+  {
+    "intent": "learned.1773973184467",
+    "utterance": "Тошкенга почта бор  бугунга",
+    "response": "Kechga yuramiz"
+  },
+  {
+    "intent": "learned.1773973779548",
+    "utterance": "Тошкенга почта бор  бугунга",
+    "response": "Тепакоргонда  932834044."
   }
 ]
