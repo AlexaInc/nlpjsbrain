@@ -8603,5 +8603,25 @@
     "intent": "learned.1774026992256",
     "utterance": "Super excited 🎊am happy now and relief 🥳 big shout out to Elena you guys are awesome 🎉 Congratulations to me 💐🎉 I just got my profit\nThank you so much Mrs @Elenawilson1_fx    this means a lot to me and my family.\nI can finally foot my bills🙏❤️❤️",
     "response": "Financial freedom!!!\nThis is greatness👏🏻🎊🍾"
+  },
+  {
+    "intent": "learned.1774050406482",
+    "utterance": "I want members",
+    "response": "How many members"
+  },
+  {
+    "intent": "learned.1774050641626",
+    "utterance": "5k",
+    "response": "I have it"
+  },
+  {
+    "intent": "learned.1774050731696",
+    "utterance": "1k is 3,770.00",
+    "response": "Not"
+  },
+  {
+    "intent": "learned.1774050731940",
+    "utterance": "1k is 3,770.00",
+    "response": "Not"
   }
 ]
