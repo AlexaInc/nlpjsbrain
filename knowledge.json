@@ -8623,5 +8623,10 @@
     "intent": "learned.1774050731940",
     "utterance": "1k is 3,770.00",
     "response": "Not"
+  },
+  {
+    "intent": "learned.1774053676421",
+    "utterance": "How much do you have",
+    "response": "What"
   }
 ]
