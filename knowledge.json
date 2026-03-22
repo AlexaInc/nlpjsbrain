@@ -10618,5 +10618,510 @@
     "intent": "learned.1774176851271",
     "utterance": "හාඋඉ",
     "response": "😔🥲"
+  },
+  {
+    "intent": "learned.1774176858421",
+    "utterance": "Ona ok",
+    "response": "අයින් කරා"
+  },
+  {
+    "intent": "learned.1774176863210",
+    "utterance": "😔🥲",
+    "response": "මොකො"
+  },
+  {
+    "intent": "learned.1774176869179",
+    "utterance": "අයින් කරා",
+    "response": "Ep"
+  },
+  {
+    "intent": "learned.1774176879205",
+    "utterance": "මොකො",
+    "response": "Which language?"
+  },
+  {
+    "intent": "learned.1774176886495",
+    "utterance": "මොකො",
+    "response": "Del krnnp"
+  },
+  {
+    "intent": "learned.1774176912610",
+    "utterance": "Oyt logout und",
+    "response": "O"
+  },
+  {
+    "intent": "learned.1774176917305",
+    "utterance": "O",
+    "response": "Denn"
+  },
+  {
+    "intent": "learned.1774176917552",
+    "utterance": "Language 😭?",
+    "response": "Sinhala"
+  },
+  {
+    "intent": "learned.1774176923581",
+    "utterance": "Sinhala",
+    "response": "Achha"
+  },
+  {
+    "intent": "learned.1774176946492",
+    "utterance": "Achha",
+    "response": "Where are you from?"
+  },
+  {
+    "intent": "learned.1774176951586",
+    "utterance": "Where are you from?",
+    "response": "ඉන්දියාව"
+  },
+  {
+    "intent": "learned.1774176960644",
+    "utterance": "ඉන්දියාව",
+    "response": "පම්ලයන් යන්න"
+  },
+  {
+    "intent": "learned.1774176973821",
+    "utterance": "පම්ලයන් යන්න",
+    "response": "හහ්?"
+  },
+  {
+    "intent": "learned.1774176977311",
+    "utterance": "Ai remove kle",
+    "response": "කවුද රිමු කරෙ"
+  },
+  {
+    "intent": "learned.1774176979954",
+    "utterance": "Where are you from?",
+    "response": "Email ekt aw ek dnn"
+  },
+  {
+    "intent": "learned.1774176985675",
+    "utterance": "හහ්?",
+    "response": "ඉන්ඩියාවෙද"
+  },
+  {
+    "intent": "learned.1774176990208",
+    "utterance": "කවුද රිමු කරෙ",
+    "response": "Dnnh ai ahnw ban kle"
+  },
+  {
+    "intent": "learned.1774176992247",
+    "utterance": "Email ekt aw ek dnn",
+    "response": "බැ"
+  },
+  {
+    "intent": "learned.1774177005357",
+    "utterance": "Dnnh ai ahnw ban kle",
+    "response": "මුට පිස්සු"
+  },
+  {
+    "intent": "learned.1774177013979",
+    "utterance": "මුට පිස්සු",
+    "response": "Irisiyw"
+  },
+  {
+    "intent": "learned.1774177014461",
+    "utterance": "ඉන්ඩියාවෙද",
+    "response": "තුම් භී ඉන්දියා සේ හෝ?"
+  },
+  {
+    "intent": "learned.1774177022605",
+    "utterance": "Irisiyw",
+    "response": "එපාවෙනව"
+  },
+  {
+    "intent": "learned.1774177040453",
+    "utterance": "එපාවෙනව",
+    "response": "code denn"
+  },
+  {
+    "intent": "learned.1774177041338",
+    "utterance": "තුම් භී ඉන්දියා සේ හෝ?",
+    "response": "සිරාවට මෙ ඉන්දියාවෙ පොරක්ද"
+  },
+  {
+    "intent": "learned.1774177048362",
+    "utterance": "එපාවෙනව",
+    "response": "Ehem thm kollo"
+  },
+  {
+    "intent": "learned.1774177049518",
+    "utterance": "code denn",
+    "response": "ඉන්න දෙන්න මට"
+  },
+  {
+    "intent": "learned.1774177061851",
+    "utterance": "ඉන්න දෙන්න මට",
+    "response": "Deno 😒"
+  },
+  {
+    "intent": "learned.1774177064966",
+    "utterance": "සිරාවට මෙ ඉන්දියාවෙ පොරක්ද",
+    "response": "කොන්සි පොර?"
+  },
+  {
+    "intent": "learned.1774177069715",
+    "utterance": "Ehem thm kollo",
+    "response": "එක්කො ගෲප වහන්නොනෙ එක්කො කොල්ල හුරතල් කරන්නොනෙ"
+  },
+  {
+    "intent": "learned.1774177084579",
+    "utterance": "එක්කො ගෲප වහන්නොනෙ එක්කො කොල්ල හුරතල් කරන්නොනෙ",
+    "response": "😂😂 anee doneee"
+  },
+  {
+    "intent": "learned.1774177103932",
+    "utterance": "Gnja ghnm",
+    "response": "You from?"
+  },
+  {
+    "intent": "learned.1774177109121",
+    "utterance": "Gnja ghnm",
+    "response": "මටත් දෙන්න"
+  },
+  {
+    "intent": "learned.1774177113795",
+    "utterance": "You from?",
+    "response": "Ithiyopia"
+  },
+  {
+    "intent": "learned.1774177120298",
+    "utterance": "මටත් දෙන්න",
+    "response": "Enn"
+  },
+  {
+    "intent": "learned.1774177135890",
+    "utterance": "මටත් දෙන්න",
+    "response": "Call ek gnna sudu"
+  },
+  {
+    "intent": "learned.1774177154601",
+    "utterance": "You from?",
+    "response": "Are you in India?"
+  },
+  {
+    "intent": "learned.1774177166560",
+    "utterance": "Ithiyopia",
+    "response": "Can you speak in English?"
+  },
+  {
+    "intent": "learned.1774177167343",
+    "utterance": "Call ek gnna sudu",
+    "response": "බහ"
+  },
+  {
+    "intent": "learned.1774177178542",
+    "utterance": "බහ",
+    "response": "Code dnn enm"
+  },
+  {
+    "intent": "learned.1774177179696",
+    "utterance": "Are you in India?",
+    "response": "Can you speak in english? 😭🌝"
+  },
+  {
+    "intent": "learned.1774177186010",
+    "utterance": "Code dnn enm",
+    "response": "මොකටද"
+  },
+  {
+    "intent": "learned.1774177196226",
+    "utterance": "Can you speak in english? 😭🌝",
+    "response": "Ok"
+  },
+  {
+    "intent": "learned.1774177202946",
+    "utterance": "Ok",
+    "response": "Yeah 🥲"
+  },
+  {
+    "intent": "learned.1774177209069",
+    "utterance": "මොකටද",
+    "response": "premium gnn"
+  },
+  {
+    "intent": "learned.1774177217218",
+    "utterance": "Can you speak in English?",
+    "response": "දැන් හරිද"
+  },
+  {
+    "intent": "learned.1774177226534",
+    "utterance": "Yeah 🥲",
+    "response": "what is your name"
+  },
+  {
+    "intent": "learned.1774177238457",
+    "utterance": "දැන් හරිද",
+    "response": "Yeah"
+  },
+  {
+    "intent": "learned.1774177242190",
+    "utterance": "දැන් හරිද",
+    "response": "පව්"
+  },
+  {
+    "intent": "learned.1774177253210",
+    "utterance": "Yeah",
+    "response": "හරිලු"
+  },
+  {
+    "intent": "learned.1774177258622",
+    "utterance": "what is your name",
+    "response": "Ayaan.\nWhat about you?"
+  },
+  {
+    "intent": "learned.1774177270652",
+    "utterance": "Yeah",
+    "response": "ඔයා මොකද කරන්නෙ"
+  },
+  {
+    "intent": "learned.1774177277830",
+    "utterance": "Ayaan.\nWhat about you?",
+    "response": "අපෙ අයන් එකෙන් හරියට මැදෙන්නෙත් නැ"
+  },
+  {
+    "intent": "learned.1774177282329",
+    "utterance": "පව්",
+    "response": "හරිලු"
+  },
+  {
+    "intent": "learned.1774177286199",
+    "utterance": "ඔයා මොකද කරන්නෙ",
+    "response": "just bored"
+  },
+  {
+    "intent": "learned.1774177298034",
+    "utterance": "අපෙ අයන් එකෙන් හරියට මැදෙන්නෙත් නැ",
+    "response": "Please speak english 🥹"
+  },
+  {
+    "intent": "learned.1774177305243",
+    "utterance": "just bored",
+    "response": "අනේ ඒ ඇයි 🥲😂"
+  },
+  {
+    "intent": "learned.1774177314856",
+    "utterance": "Please speak english 🥹",
+    "response": "Your name is beautiful"
+  },
+  {
+    "intent": "learned.1774177335898",
+    "utterance": "Your name is beautiful",
+    "response": "Can we chxt personally?"
+  },
+  {
+    "intent": "learned.1774177372531",
+    "utterance": "Yeah?",
+    "response": "Nothing"
+  },
+  {
+    "intent": "learned.1774177379605",
+    "utterance": "Nothing",
+    "response": "Ok"
+  },
+  {
+    "intent": "learned.1774177405167",
+    "utterance": "What you doing?",
+    "response": "නිදි"
+  },
+  {
+    "intent": "learned.1774177413670",
+    "utterance": "Can we chxt personally?",
+    "response": "I cant"
+  },
+  {
+    "intent": "learned.1774177420094",
+    "utterance": "I cant",
+    "response": "Why? 🥲"
+  },
+  {
+    "intent": "learned.1774177420594",
+    "utterance": "Ayan",
+    "response": "Na"
+  },
+  {
+    "intent": "learned.1774177429243",
+    "utterance": "නිදි",
+    "response": "Ok"
+  },
+  {
+    "intent": "learned.1774177431695",
+    "utterance": "Why? 🥲",
+    "response": "I have two husband"
+  },
+  {
+    "intent": "learned.1774177441424",
+    "utterance": "Ok",
+    "response": "ඉතින් ඒක තේරුනාද"
+  },
+  {
+    "intent": "learned.1774177447464",
+    "utterance": "I have two husband",
+    "response": "Third one me? 😭😂"
+  },
+  {
+    "intent": "learned.1774177449824",
+    "utterance": "I have two husband",
+    "response": "Code ek deno 😒"
+  },
+  {
+    "intent": "learned.1774177468897",
+    "utterance": "Third one me? 😭😂",
+    "response": "I dont like 😭🫠"
+  },
+  {
+    "intent": "learned.1774177476327",
+    "utterance": "ඉතින් ඒක තේරුනාද",
+    "response": "I am using translate"
+  },
+  {
+    "intent": "learned.1774177483228",
+    "utterance": "I dont like 😭🫠",
+    "response": "😭🥹"
+  },
+  {
+    "intent": "learned.1774177510089",
+    "utterance": "😭🥹",
+    "response": "What state do you live in?"
+  },
+  {
+    "intent": "learned.1774177524242",
+    "utterance": "What state do you live in?",
+    "response": "Call ek gnnko"
+  },
+  {
+    "intent": "learned.1774177531974",
+    "utterance": "Call ek gnnko",
+    "response": "මොකටද"
+  },
+  {
+    "intent": "learned.1774177535487",
+    "utterance": "මොකටද",
+    "response": "Ktkrnn"
+  },
+  {
+    "intent": "learned.1774177540950",
+    "utterance": "Ktkrnn",
+    "response": "අම්ම ඉන්නව"
+  },
+  {
+    "intent": "learned.1774177547010",
+    "utterance": "What state do you live in?",
+    "response": "Why should I tell you? 🥹"
+  },
+  {
+    "intent": "learned.1774177547490",
+    "utterance": "අම්ම ඉන්නව",
+    "response": "Mn krkrnne"
+  },
+  {
+    "intent": "learned.1774177555116",
+    "utterance": "Gnn",
+    "response": "දැන් කියල කට ගට්ට විතරයි නෙද"
+  },
+  {
+    "intent": "learned.1774177562029",
+    "utterance": "I am using translate",
+    "response": "හරි එහෙනම් ඔයා මට කියන්න මාලා කනවලු දවල්ට බෝංචි කිරට හදලා මාලු ඇඹුල් තියල් හදලා පරිප්පු තෙම්පරාදු කරලා බත් එක්ක බැදපු කට්ලට් එකක්...ඒක ආමාශෙ ජීරනේ වෙන්නෙ කොහොමද"
+  },
+  {
+    "intent": "learned.1774177570230",
+    "utterance": "Mn krkrnne",
+    "response": "මොනාද කර කරන්නෙ"
+  },
+  {
+    "intent": "learned.1774177585943",
+    "utterance": "මොනාද කර කරන්නෙ",
+    "response": "Mn ktkrnnm ahn inn kiyl kiwe"
+  },
+  {
+    "intent": "learned.1774177593313",
+    "utterance": "Mn ktkrnnm ahn inn kiyl kiwe",
+    "response": "අම්මටට් ඇහෙයි"
+  },
+  {
+    "intent": "learned.1774177599716",
+    "utterance": "අම්මටට් ඇහෙයි",
+    "response": "Enm in blnn"
+  },
+  {
+    "intent": "learned.1774177602176",
+    "utterance": "හරි එහෙනම් ඔයා මට කියන්න මාලා කනවලු දවල්ට බෝංචි කිරට හදලා මාලු ඇඹුල් තියල් හදලා පරිප්පු තෙම්පරාදු කරලා බත් එක්ක බැදපු කට්ලට් එකක්...ඒක ආමාශෙ ජීරනේ වෙන්නෙ කොහොමද",
+    "response": "Why this question to me? 😭"
+  },
+  {
+    "intent": "learned.1774177612990",
+    "utterance": "Why this question to me? 😭",
+    "response": "කියන්නකො"
+  },
+  {
+    "intent": "learned.1774177618335",
+    "utterance": "හරි එහෙනම් ඔයා මට කියන්න මාලා කනවලු දවල්ට බෝංචි කිරට හදලා මාලු ඇඹුල් තියල් හදලා පරිප්පු තෙම්පරාදු කරලා බත් එක්ක බැදපු කට්ලට් එකක්...ඒක ආමාශෙ ජීරනේ වෙන්නෙ කොහොමද",
+    "response": "කටට කෙලත් ආවා එකට නම්"
+  },
+  {
+    "intent": "learned.1774177626361",
+    "utterance": "කටට කෙලත් ආවා එකට නම්",
+    "response": "😂😂අනේ"
+  },
+  {
+    "intent": "learned.1774177647568",
+    "utterance": "කියන්නකො",
+    "response": "i will kiss you 😋"
+  },
+  {
+    "intent": "learned.1774177665270",
+    "utterance": "i will kiss you 😋",
+    "response": "කිස් නෙමේ ආමාශෙ ජීරනේ ඇහුවෙ"
+  },
+  {
+    "intent": "learned.1774177706901",
+    "utterance": "කිස් නෙමේ ආමාශෙ ජීරනේ ඇහුවෙ",
+    "response": "Haha"
+  },
+  {
+    "intent": "learned.1774177714181",
+    "utterance": "Haha",
+    "response": "කියන්න"
+  },
+  {
+    "intent": "learned.1774177852536",
+    "utterance": "Hy",
+    "response": "හායි Vihanga .​ සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️"
+  },
+  {
+    "intent": "learned.1774177902213",
+    "utterance": "Hy",
+    "response": "කවුරුත් නැ"
+  },
+  {
+    "intent": "learned.1774177913037",
+    "utterance": "කවුරුත් නැ",
+    "response": "Ehemd🙂"
+  },
+  {
+    "intent": "learned.1774178000148",
+    "utterance": "කියන්න",
+    "response": "How should I tell you? 😭"
+  },
+  {
+    "intent": "learned.1774178232329",
+    "utterance": "කවුරුත් නැ",
+    "response": "hii"
+  },
+  {
+    "intent": "learned.1774178232812",
+    "utterance": "hii",
+    "response": "හායි Sandeep  සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️"
+  },
+  {
+    "intent": "learned.1774178360567",
+    "utterance": "I don't know baby 😭",
+    "response": "එහෙම බෑනෙ දැනගන්න ඕනෙ"
+  },
+  {
+    "intent": "learned.1774178390294",
+    "utterance": "එහෙම බෑනෙ දැනගන්න ඕනෙ",
+    "response": "Dmm me"
   }
 ]
