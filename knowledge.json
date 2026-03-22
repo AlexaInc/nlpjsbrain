@@ -9388,5 +9388,35 @@
     "intent": "learned.1774163505260",
     "utterance": "بدك اول شي تدخل ع ويب تفعل حسابك ويعطونك id جديد\nبعد التفعيل ترجع ع برنامج دخلو ويشتغل نظامي بالعلمة السورية الجديدة",
     "response": "بلويب ماعم يطلع اليرة السورية"
+  },
+  {
+    "intent": "learned.1774170342178",
+    "utterance": "12",
+    "response": "💪 **Come on!** (4 minutes 50 seconds)\nYou guessed the word!\n__+1 in the local game leaderboard__"
+  },
+  {
+    "intent": "learned.1774170400730",
+    "utterance": "Byyy",
+    "response": "ai"
+  },
+  {
+    "intent": "learned.1774170426599",
+    "utterance": "ai",
+    "response": "Hee hee topiyk topiyk😁"
+  },
+  {
+    "intent": "learned.1774170433511",
+    "utterance": "Hee hee topiyk topiyk😁",
+    "response": "M"
+  },
+  {
+    "intent": "learned.1774170954466",
+    "utterance": "Hee hee topiyk topiyk😁",
+    "response": "toffe knod oyl"
+  },
+  {
+    "intent": "learned.1774171949736",
+    "utterance": "Why dont girls like me ?",
+    "response": "why girls don't like me ."
   }
 ]
