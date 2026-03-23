@@ -11288,5 +11288,395 @@
     "intent": "learned.1774227718172",
     "utterance": "Classified",
     "response": "What"
+  },
+  {
+    "intent": "learned.1774227791340",
+    "utterance": "Aww aww",
+    "response": "Ai aii👀"
+  },
+  {
+    "intent": "learned.1774227959179",
+    "utterance": "Drake",
+    "response": "Congrats! You guessed it correctly.\nCorrect Word: **drake**\nAdded 12 to the leaderboard.\nStart with /new5"
+  },
+  {
+    "intent": "learned.1774228974976",
+    "utterance": "Hi",
+    "response": "හායි Black'Y •▪️◾◼️ සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️"
+  },
+  {
+    "intent": "learned.1774229523378",
+    "utterance": "Hi",
+    "response": "Hi"
+  },
+  {
+    "intent": "learned.1774229524091",
+    "utterance": "Hi",
+    "response": "හායි Washigara 🩷🥀 සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️"
+  },
+  {
+    "intent": "learned.1774229575926",
+    "utterance": "Vassa",
+    "response": "Hraka"
+  },
+  {
+    "intent": "learned.1774229605343",
+    "utterance": "Hraka",
+    "response": "Yako"
+  },
+  {
+    "intent": "learned.1774229612542",
+    "utterance": "Yako",
+    "response": "Ai"
+  },
+  {
+    "intent": "learned.1774229616275",
+    "utterance": "Ai",
+    "response": "වැස්ස කීවෙ බන්😒"
+  },
+  {
+    "intent": "learned.1774229621102",
+    "utterance": "Hi",
+    "response": "හායි හොම්මන් පැංචා  සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️"
+  },
+  {
+    "intent": "learned.1774229628377",
+    "utterance": "Good morning all",
+    "response": "ගුඩ් මෝනිම් සෝස මල..🌹✨උදේපාන්දර මාව බලන්න නේද ආවෙ මැණික..😩🥰❤️ ආදරෙයි චූටියෝ...🌝🌹🌷"
+  },
+  {
+    "intent": "learned.1774229637107",
+    "utterance": "වැස්ස කීවෙ බන්😒",
+    "response": "Aaaaaaaaaaaaaaaaaaaaaa"
+  },
+  {
+    "intent": "learned.1774229644192",
+    "utterance": "Good morning all",
+    "response": "Good morning"
+  },
+  {
+    "intent": "learned.1774229644863",
+    "utterance": "Good morning",
+    "response": "ගුඩ් මෝනිම් සෝස මල..🌹✨උදේපාන්දර මාව බලන්න නේද ආවෙ මැණික..😩🥰❤️ ආදරෙයි චූටියෝ...🌝🌹🌷"
+  },
+  {
+    "intent": "learned.1774229650509",
+    "utterance": "Aaaaaaaaaaaaaaaaaaaaaa",
+    "response": "Ewwwwe"
+  },
+  {
+    "intent": "learned.1774229652690",
+    "utterance": "M mko",
+    "response": "Moko sadde"
+  },
+  {
+    "intent": "learned.1774229656956",
+    "utterance": "Good morning",
+    "response": "Mk yaluwe"
+  },
+  {
+    "intent": "learned.1774229657693",
+    "utterance": "Mk yaluwe",
+    "response": "මුකුත්  නැ පැටියෝ..💖🔓\nඔයා මොකද කරන්නෙ..💓🌷"
+  },
+  {
+    "intent": "learned.1774229661343",
+    "utterance": "Ewwwwe",
+    "response": "Good morning"
+  },
+  {
+    "intent": "learned.1774229661981",
+    "utterance": "Good morning",
+    "response": "ගුඩ් මෝනිම් සෝස මල..🌹✨උදේපාන්දර මාව බලන්න නේද ආවෙ මැණික..😩🥰❤️ ආදරෙයි චූටියෝ...🌝🌹🌷"
+  },
+  {
+    "intent": "learned.1774229669221",
+    "utterance": "Good morning",
+    "response": "Gud eveninh"
+  },
+  {
+    "intent": "learned.1774229683898",
+    "utterance": "Mk yaluwe",
+    "response": "nidi mn tma"
+  },
+  {
+    "intent": "learned.1774229690880",
+    "utterance": "nidi mn tma",
+    "response": "Hee mth"
+  },
+  {
+    "intent": "learned.1774229696854",
+    "utterance": "Gud eveninh",
+    "response": "Tankz"
+  },
+  {
+    "intent": "learned.1774229705989",
+    "utterance": "Hee mth",
+    "response": "Hati sok"
+  },
+  {
+    "intent": "learned.1774229717352",
+    "utterance": "Hati sok",
+    "response": "Apoi doiuymu aleh"
+  },
+  {
+    "intent": "learned.1774229730967",
+    "utterance": "Apoi doiuymu aleh",
+    "response": "Good night"
+  },
+  {
+    "intent": "learned.1774229731476",
+    "utterance": "Good night",
+    "response": "අලබෝලෙ වගේ කාලා බීලා දැන් දොයියන්නද හදන්නේ බතලයෝ...😩❤️.ගුඩ් නයිට් මැණික..🌷🌹මන් ඔයාව බලන්න හීනෙන් එන්නම් සුදූ..🌝🌹"
+  },
+  {
+    "intent": "learned.1774229736145",
+    "utterance": "Good night",
+    "response": "Hee"
+  },
+  {
+    "intent": "learned.1774229751299",
+    "utterance": "Hee",
+    "response": "Kmmli holmnK"
+  },
+  {
+    "intent": "learned.1774229755388",
+    "utterance": "Tankz",
+    "response": "Wc"
+  },
+  {
+    "intent": "learned.1774229758073",
+    "utterance": "Hi",
+    "response": "Hyy"
+  },
+  {
+    "intent": "learned.1774229764747",
+    "utterance": "Kmmli holmnK",
+    "response": "Hee 🙃🙃"
+  },
+  {
+    "intent": "learned.1774229789963",
+    "utterance": "Kmmli holmnK",
+    "response": "Oy kohed hlo"
+  },
+  {
+    "intent": "learned.1774229810007",
+    "utterance": "Oy kohed hlo",
+    "response": "Gedr"
+  },
+  {
+    "intent": "learned.1774229822383",
+    "utterance": "Cara akki bbh ndd",
+    "response": "Nifi ati"
+  },
+  {
+    "intent": "learned.1774229823341",
+    "utterance": "Gedr",
+    "response": "Apoi හොම්මන ගෙවල් කොහෙද"
+  },
+  {
+    "intent": "learned.1774229847334",
+    "utterance": "Apoi හොම්මන ගෙවල් කොහෙද",
+    "response": "Matale"
+  },
+  {
+    "intent": "learned.1774229862677",
+    "utterance": "Matale",
+    "response": "ආ මන් නුවර  🙃"
+  },
+  {
+    "intent": "learned.1774229872682",
+    "utterance": "ආ මන් නුවර  🙃",
+    "response": "Aaaaaaaaaaaaaaaaaaaaaa hodai"
+  },
+  {
+    "intent": "learned.1774229882273",
+    "utterance": "මට",
+    "response": "Aaaaaaaaaaaaaaaaaaaaaa kiynn"
+  },
+  {
+    "intent": "learned.1774229885923",
+    "utterance": "Aaaaaaaaaaaaaaaaaaaaaa hodai",
+    "response": "එසේය 🙃"
+  },
+  {
+    "intent": "learned.1774229890221",
+    "utterance": "Vc nedd meke",
+    "response": "Nalu ai e"
+  },
+  {
+    "intent": "learned.1774229891197",
+    "utterance": "Aaaaaaaaaaaaaaaaaaaaaa kiynn",
+    "response": "ආආආඅ"
+  },
+  {
+    "intent": "learned.1774229917289",
+    "utterance": "Nalu ai e",
+    "response": "Hem grop ekkm tiyene eky"
+  },
+  {
+    "intent": "learned.1774229940235",
+    "utterance": "Nidi ati",
+    "response": "Hanew"
+  },
+  {
+    "intent": "learned.1774229982058",
+    "utterance": "Koo",
+    "response": "Kud"
+  },
+  {
+    "intent": "learned.1774229989418",
+    "utterance": "Kud",
+    "response": "කෑම අනෙ"
+  },
+  {
+    "intent": "learned.1774230039299",
+    "utterance": "අනේ මටත් ඕනි",
+    "response": "Mn bedgen knn na"
+  },
+  {
+    "intent": "learned.1774230047598",
+    "utterance": "Mn bedgen knn na",
+    "response": "මට ඕනී"
+  },
+  {
+    "intent": "learned.1774230087415",
+    "utterance": "මන් යනො හුම්",
+    "response": "Ane inda"
+  },
+  {
+    "intent": "learned.1774230100202",
+    "utterance": "Ane inda",
+    "response": "බැ සුද්දහ්"
+  },
+  {
+    "intent": "learned.1774230106243",
+    "utterance": "Ai nidi",
+    "response": "Nidimyt"
+  },
+  {
+    "intent": "learned.1774230109585",
+    "utterance": "බැ සුද්දහ්",
+    "response": "Ai ynne"
+  },
+  {
+    "intent": "learned.1774230117306",
+    "utterance": "Nidimyt",
+    "response": "Good night"
+  },
+  {
+    "intent": "learned.1774230118055",
+    "utterance": "Good night",
+    "response": "අලබෝලෙ වගේ කාලා බීලා දැන් දොයියන්නද හදන්නේ බතලයෝ...😩❤️.ගුඩ් නයිට් මැණික..🌷🌹මන් ඔයාව බලන්න හීනෙන් එන්නම් සුදූ..🌝🌹"
+  },
+  {
+    "intent": "learned.1774230124803",
+    "utterance": "Ai ynne",
+    "response": "Man ඔහෙත් එක්ක තරහයි"
+  },
+  {
+    "intent": "learned.1774230133192",
+    "utterance": "Man ඔහෙත් එක්ක තරහයි",
+    "response": "Ai e"
+  },
+  {
+    "intent": "learned.1774230144973",
+    "utterance": "Ai e",
+    "response": "තරහම තරහයි"
+  },
+  {
+    "intent": "learned.1774230150571",
+    "utterance": "තරහම තරහයි",
+    "response": "Ai"
+  },
+  {
+    "intent": "learned.1774230165097",
+    "utterance": "Ai",
+    "response": "ඇගිලි පෙන්නුව නිසා"
+  },
+  {
+    "intent": "learned.1774230169361",
+    "utterance": "Nidhnn",
+    "response": "Ha 🌚"
+  },
+  {
+    "intent": "learned.1774230184241",
+    "utterance": "ඇගිලි පෙන්නුව නිසා",
+    "response": "Itin ekt trh wennoned"
+  },
+  {
+    "intent": "learned.1774230194339",
+    "utterance": "Itin ekt trh wennoned",
+    "response": "ඔව්"
+  },
+  {
+    "intent": "learned.1774230227456",
+    "utterance": "මන් යනො එනම්",
+    "response": "Bye"
+  },
+  {
+    "intent": "learned.1774230234633",
+    "utterance": "Bye",
+    "response": "පිනි බායි"
+  },
+  {
+    "intent": "learned.1774230240975",
+    "utterance": "පිනි බායි",
+    "response": "Aye enna"
+  },
+  {
+    "intent": "learned.1774230251604",
+    "utterance": "මට",
+    "response": "Oned"
+  },
+  {
+    "intent": "learned.1774230260315",
+    "utterance": "Oned",
+    "response": "මෙ නම මොකක්ද"
+  },
+  {
+    "intent": "learned.1774230272645",
+    "utterance": "මෙ නම මොකක්ද",
+    "response": "Wasigara"
+  },
+  {
+    "intent": "learned.1774230283613",
+    "utterance": "Wasigara",
+    "response": "තේරුම් නෑ"
+  },
+  {
+    "intent": "learned.1774230295039",
+    "utterance": "තේරුම් නෑ",
+    "response": "Ha"
+  },
+  {
+    "intent": "learned.1774230301839",
+    "utterance": "Ha",
+    "response": "කියන්නකො"
+  },
+  {
+    "intent": "learned.1774230312914",
+    "utterance": "කියන්නකො",
+    "response": "වසිගරා"
+  },
+  {
+    "intent": "learned.1774230322973",
+    "utterance": "වසිගරා",
+    "response": "අලෙහ් අදමයි ඇහුවෙ"
+  },
+  {
+    "intent": "learned.1774230330262",
+    "utterance": "අලෙහ් අදමයි ඇහුවෙ",
+    "response": "හුම්"
+  },
+  {
+    "intent": "learned.1774230333751",
+    "utterance": "හුම්",
+    "response": "හී"
+  },
+  {
+    "intent": "learned.1774230345569",
+    "utterance": "හුම්",
+    "response": "එ උනාට මට බැන්නා"
   }
 ]
