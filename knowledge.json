@@ -12093,5 +12093,20 @@
     "intent": "learned.1774270825746",
     "utterance": "Imbue",
     "response": "Congrats! You guessed it correctly.\nCorrect Word: **imbue**\nAdded 16 to the leaderboard.\nStart with /new5"
+  },
+  {
+    "intent": "learned.1774271911152",
+    "utterance": "Chuck",
+    "response": "Congrats! You guessed it correctly.\nCorrect Word: **chuck**\nAdded 4 to the leaderboard.\nStart with /new5"
+  },
+  {
+    "intent": "learned.1774272041037",
+    "utterance": "Dopey",
+    "response": "Congrats! You guessed it correctly.\nCorrect Word: **dopey**\nAdded 25 to the leaderboard.\nStart with /new5"
+  },
+  {
+    "intent": "learned.1774272271191",
+    "utterance": "Abled",
+    "response": "Congrats! You guessed it correctly.\nCorrect Word: **abled**\nAdded 22 to the leaderboard.\nStart with /new5"
   }
 ]
