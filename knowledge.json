@@ -11228,5 +11228,65 @@
     "intent": "learned.1774224166435",
     "utterance": "Broader",
     "response": "⚡️ **How fast!** (1 minute 49 seconds)\nYou guessed the word in record time!\n__+2 in the local game ranking__"
+  },
+  {
+    "intent": "learned.1774227395014",
+    "utterance": "May all you have a great start to the day",
+    "response": "You too"
+  },
+  {
+    "intent": "learned.1774227541057",
+    "utterance": "Gm hlo",
+    "response": "ගුඩ් මෝනිම් සෝස මල..🌹✨උදේපාන්දර මාව බලන්න නේද ආවෙ මැණික..😩🥰❤️ ආදරෙයි චූටියෝ...🌝🌹🌷"
+  },
+  {
+    "intent": "learned.1774227565491",
+    "utterance": "Gm hlo",
+    "response": "Good morning"
+  },
+  {
+    "intent": "learned.1774227566095",
+    "utterance": "Good morning",
+    "response": "ගුඩ් මෝනිම් සෝස මල..🌹✨උදේපාන්දර මාව බලන්න නේද ආවෙ මැණික..😩🥰❤️ ආදරෙයි චූටියෝ...🌝🌹🌷"
+  },
+  {
+    "intent": "learned.1774227570007",
+    "utterance": "Good morning",
+    "response": "Mk"
+  },
+  {
+    "intent": "learned.1774227570584",
+    "utterance": "Mk",
+    "response": "මුකුත්  නැ පැටියෝ..💖🔓\nඔයා මොකද කරන්නෙ..💓🌷"
+  },
+  {
+    "intent": "learned.1774227584317",
+    "utterance": "Mk",
+    "response": "Mokut na itin"
+  },
+  {
+    "intent": "learned.1774227617345",
+    "utterance": "oyg nm mkldd",
+    "response": "Gimhani"
+  },
+  {
+    "intent": "learned.1774227669895",
+    "utterance": "Gimhani",
+    "response": "Age"
+  },
+  {
+    "intent": "learned.1774227671174",
+    "utterance": "Gummorning",
+    "response": "Aww aww"
+  },
+  {
+    "intent": "learned.1774227679623",
+    "utterance": "Age",
+    "response": "Classified"
+  },
+  {
+    "intent": "learned.1774227718172",
+    "utterance": "Classified",
+    "response": "What"
   }
 ]
