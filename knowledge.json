@@ -12108,5 +12108,10 @@
     "intent": "learned.1774272271191",
     "utterance": "Abled",
     "response": "Congrats! You guessed it correctly.\nCorrect Word: **abled**\nAdded 22 to the leaderboard.\nStart with /new5"
+  },
+  {
+    "intent": "learned.1774278015051",
+    "utterance": "Ассаламу Алайкум гурипадагилар ертага соат 3.00 3.5 уларга мошина борми Наманган дан тошкентга орта сройга",
+    "response": "Topamiz"
   }
 ]
