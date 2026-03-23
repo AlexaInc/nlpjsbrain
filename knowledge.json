@@ -12113,5 +12113,155 @@
     "intent": "learned.1774278015051",
     "utterance": "Ассаламу Алайкум гурипадагилар ертага соат 3.00 3.5 уларга мошина борми Наманган дан тошкентга орта сройга",
     "response": "Topamiz"
+  },
+  {
+    "intent": "learned.1774279508040",
+    "utterance": "Topamiz",
+    "response": "Топайлик дилмурод"
+  },
+  {
+    "intent": "learned.1774279720196",
+    "utterance": "Guess",
+    "response": "Bot kadila needa"
+  },
+  {
+    "intent": "learned.1774279868840",
+    "utterance": "Wassa da",
+    "response": "Pyla"
+  },
+  {
+    "intent": "learned.1774279911420",
+    "utterance": "Bot kadila needa",
+    "response": "Ow ne nngi"
+  },
+  {
+    "intent": "learned.1774279986259",
+    "utterance": "Ow ne nngi",
+    "response": "Yup"
+  },
+  {
+    "intent": "learned.1774280054258",
+    "utterance": "Hri lassanai",
+    "response": "එම් කේ ලමයො"
+  },
+  {
+    "intent": "learned.1774280082580",
+    "utterance": "Hii",
+    "response": "හායි Dul  සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️"
+  },
+  {
+    "intent": "learned.1774280139379",
+    "utterance": "එම් කේ ලමයො",
+    "response": "Innawa ane"
+  },
+  {
+    "intent": "learned.1774280156056",
+    "utterance": "Oyata kohomada",
+    "response": "Hlo"
+  },
+  {
+    "intent": "learned.1774280158934",
+    "utterance": "Dara ko",
+    "response": "Dara"
+  },
+  {
+    "intent": "learned.1774280172051",
+    "utterance": "Hlo",
+    "response": "Good evening"
+  },
+  {
+    "intent": "learned.1774280176396",
+    "utterance": "Dara",
+    "response": "Oo"
+  },
+  {
+    "intent": "learned.1774280179175",
+    "utterance": "Dara ko",
+    "response": "Ooo👀"
+  },
+  {
+    "intent": "learned.1774280180998",
+    "utterance": "Adminl maril kiyl hituwe",
+    "response": "Ehem wen nah"
+  },
+  {
+    "intent": "learned.1774280195871",
+    "utterance": "Ehem wen nah",
+    "response": "Huh"
+  },
+  {
+    "intent": "learned.1774280203449",
+    "utterance": "Oo",
+    "response": "Kiynn pttoo 👀"
+  },
+  {
+    "intent": "learned.1774280360612",
+    "utterance": "Oyata kohomada",
+    "response": "වැඩ ඉතින් උදේට යනව රෑට එනව 🫠"
+  },
+  {
+    "intent": "learned.1774280396235",
+    "utterance": "වැඩ ඉතින් උදේට යනව රෑට එනව 🫠",
+    "response": "Ah"
+  },
+  {
+    "intent": "learned.1774280546534",
+    "utterance": "Hi...",
+    "response": "හායි Uthum ALOKA සූටි බබෝ..😍❤️\nයාලුවො α∂∂ කරල ¢нαт කරන්නකෝ 😘🎗️"
+  },
+  {
+    "intent": "learned.1774280579065",
+    "utterance": "Ah",
+    "response": "Gedr neda me dws wla"
+  },
+  {
+    "intent": "learned.1774280594755",
+    "utterance": "Gedr neda me dws wla",
+    "response": "Yup"
+  },
+  {
+    "intent": "learned.1774280638811",
+    "utterance": "Yup",
+    "response": "Jpurth niwdu dunnd 🤔"
+  },
+  {
+    "intent": "learned.1774280663931",
+    "utterance": "Jpurth niwdu dunnd 🤔",
+    "response": "Niwadu na online tawama plan kragen yanawa"
+  },
+  {
+    "intent": "learned.1774280691541",
+    "utterance": "Niwadu na online tawama plan kragen yanawa",
+    "response": "Ahhh 😊"
+  },
+  {
+    "intent": "learned.1774280889778",
+    "utterance": "Kiynn pttoo 👀",
+    "response": "Hanew innvad🌝"
+  },
+  {
+    "intent": "learned.1774281663488",
+    "utterance": "Hanew innvad🌝",
+    "response": "Oo tuduuu innw🥹"
+  },
+  {
+    "intent": "learned.1774281677080",
+    "utterance": "Generous",
+    "response": "⚡️ **How fast!** (51 seconds)\nYou guessed the word in record time!\n__+4 in the local game ranking__"
+  },
+  {
+    "intent": "learned.1774281678283",
+    "utterance": "Oo tuduuu innw🥹",
+    "response": "Hannnew mage akkpna😞"
+  },
+  {
+    "intent": "learned.1774281686204",
+    "utterance": "Hannnew mage akkpna😞",
+    "response": "Eknii kottamlli🥹"
+  },
+  {
+    "intent": "learned.1774281695573",
+    "utterance": "Eknii kottamlli🥹",
+    "response": "🌝😂"
   }
 ]
