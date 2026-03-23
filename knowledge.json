@@ -11858,5 +11858,55 @@
     "intent": "learned.1774242066469",
     "utterance": "https://t.me/SMARTEARNINGZOON",
     "response": "Join now All members"
+  },
+  {
+    "intent": "learned.1774245398330",
+    "utterance": "Hiiii",
+    "response": "Hello"
+  },
+  {
+    "intent": "learned.1774245409677",
+    "utterance": "Hello",
+    "response": "Hello"
+  },
+  {
+    "intent": "learned.1774245442744",
+    "utterance": "Hello",
+    "response": "Mk"
+  },
+  {
+    "intent": "learned.1774245443456",
+    "utterance": "Mk",
+    "response": "මුකුත්  නැ පැටියෝ..💖🔓\nඔයා මොකද කරන්නෙ..💓🌷"
+  },
+  {
+    "intent": "learned.1774245511821",
+    "utterance": "Mk",
+    "response": "Hodin innwa"
+  },
+  {
+    "intent": "learned.1774245525365",
+    "utterance": "Kohomda",
+    "response": "Hodai oya monawa karana keneda"
+  },
+  {
+    "intent": "learned.1774245637797",
+    "utterance": "Hodai oya monawa karana keneda",
+    "response": "Mn satuten inn knk"
+  },
+  {
+    "intent": "learned.1774245652974",
+    "utterance": "Mn satuten inn knk",
+    "response": "Iscole yana kenekda"
+  },
+  {
+    "intent": "learned.1774245675766",
+    "utterance": "Iscole yana kenekda",
+    "response": "Gihin iwarai"
+  },
+  {
+    "intent": "learned.1774245682558",
+    "utterance": "Gihin iwarai",
+    "response": "Wayasa"
   }
 ]
