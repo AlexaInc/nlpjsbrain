@@ -11223,5 +11223,10 @@
     "intent": "learned.1774214601816",
     "utterance": "Happy birthday to me 😃",
     "response": "Birthday blessings to you"
+  },
+  {
+    "intent": "learned.1774224166435",
+    "utterance": "Broader",
+    "response": "⚡️ **How fast!** (1 minute 49 seconds)\nYou guessed the word in record time!\n__+2 in the local game ranking__"
   }
 ]
